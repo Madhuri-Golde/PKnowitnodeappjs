@@ -17,7 +17,7 @@ var productController=function(req, res){
 
 // setting router to map requests  with controllers
 app.get ('/products',productController);
-var server = app.listen(8086, function () {
+var server = app.listen(7667, function () {
   var host = server.address().address
   var port = server.address().port
   console.log("Example app listening at http://localhost:7667", host, port)
