@@ -1,0 +1,23 @@
+{
+  "name": "pknowitnodeappjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhuri-Golde/PKnowitnodeappjs.git"
+  },
+  "author": "new Madhuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhuri-Golde/PKnowitnodeappjs/issues"
+  },
+  "homepage": "https://github.com/Madhuri-Golde/PKnowitnodeappjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
